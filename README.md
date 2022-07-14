@@ -12,7 +12,7 @@ Resampling efficiency optimization and rebalancing technology (RE), developed by
 ## Steps to perform:
 Given a data set of monthly closing prices for 25 assets from Jan 1st, 2018, to Dec 1st, 2020 (in-sample) and closing prices for the same assets in 2021 (out-of-sample), complete the following:
 
-1.  Load and clean data, in-sample data (2018-2020) and out-of-sample data (2021). From the in- sample data, compute the classical Markowitz and resampled Markowitz frontiers
+1.  Load and clean data, in-sample data (2018-2020) and out-of-sample data (2021). From the in-sample data, compute the classical Markowitz and resampled Markowitz frontiers
 
     a) Import necessary libraries and dataset, compute the matrix of monthly returns 
 
@@ -38,5 +38,5 @@ Given a data set of monthly closing prices for 25 assets from Jan 1st, 2018, to 
 
 4. Plot the portfolio compositions for classical and resampled frontiers
 
-5. Discuss your findings from comparing the performance of all 6 portfolios and from observing the
+5. Discuss the findings from comparing the performance of all 6 portfolios and from observing the
 graphs from questions 3 & 4
